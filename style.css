@@ -230,10 +230,10 @@ body {
   color: rgb(243,181,25);
   font-size: 13px;
 }
-#product1 .pro .des h5{
+#product1 .pro .des h4{
   padding-top: 7px;
   font-size: 12px;
-  color: #1a1a1a;
+  color: #088178;
   font-weight: 700;
 }
 #product1 .pro .cart{
