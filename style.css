@@ -92,11 +92,12 @@ body {
   list-style: none;
   padding: 0 20px;
   position: relative;
+  
 }
 #navbar li a{
   text-decoration: none;
   font-size: 16px;
-  font-size: 600;
+    font-weight: 600;
   color: #1a1a1a;
   transition: 0.03s ease;
 }
@@ -455,6 +456,59 @@ footer .copyright{
   width: 100%;
   text-align: center;
 }
+/* Shop Page */
+#page-header{
+  background-image: url("img/banner/b1.jpg");
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 14px;
+}
+#page-header h2,
+#page-header p{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width:799px){
   .section-p1{
     padding: 40px 40px;
