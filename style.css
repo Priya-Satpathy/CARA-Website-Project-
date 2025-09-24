@@ -487,6 +487,14 @@ footer .copyright{
   font-size: 16px;
   font-weight: 600;
 }
+#prodetails .single-pro-image{
+  width: 40%;
+  margin-right: 50px;
+}
+.small-img-group{
+  display: flex;
+  justify-content: space-between;
+}
 
 
 
